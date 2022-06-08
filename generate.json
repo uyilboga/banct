@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Ufuk",
+      "lastname": "Yılboğa",
+      "job_title": "Front End Developer",
+      "job_description": "Lorem ipsum dolor sit amet",
+      "email": "ufukyilboga@banct.com",
+      "role": "super-admin",
+      "password": "123456",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "firstname": "Emre",
+      "lastname": "Erinç",
+      "job_title": "Back End Developer",
+      "job_description": "Lorem ipsum dolor sit amet",
+      "email": "emreerinc@banct.com",
+      "role": "developer",
+      "password": "123456",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "firstname": "Murat",
+      "lastname": "Şenaltun",
+      "job_title": "Business Analyst",
+      "job_description": "Lorem ipsum dolor sit amet",
+      "email": "muratsenaltun@banct.com",
+      "role": "customer-manager",
+      "password": "123456",
+      "isActive": false
+    },
+    {
+      "id": 4,
+      "firstname": "Can",
+      "lastname": "Çobanoğlu",
+      "job_title": "Project Leader",
+      "job_description": "Lorem ipsum dolor sit amet",
+      "email": "cancobanoglu@banct.com",
+      "role": "super-admin",
+      "password": "123456",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "firstname": "Reyhan",
+      "lastname": "Civci",
+      "job_title": "Project Manager",
+      "job_description": "Lorem ipsum dolor sit amet",
+      "email": "reyhancivci@banct.com",
+      "role": "content-manager",
+      "password": "123456",
+      "isActive": true
+    },
+    {
+      "id": 6,
+      "firstname": "Mustafa",
+      "lastname": "Karaoğlu",
+      "job_title": "System Administrator",
+      "job_description": "Lorem ipsum dolor sit amet",
+      "email": "mustafakaraoglu@banct.com",
+      "role": "developer",
+      "password": "123456",
+      "isActive": false
+    }
+  ]
+}
